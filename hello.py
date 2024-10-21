@@ -1,2 +1,2 @@
 print(" git with changets")
-print("que tal el curso")
+print("que tal el curso como estas ")
